@@ -43,6 +43,10 @@ hr {
     border-width: 8px;
 }
 
+a  {
+    text-decoration: none;
+}
+
 /* ARTICLE - TITLE ABOUT */
 .title {
     text-align: center;
